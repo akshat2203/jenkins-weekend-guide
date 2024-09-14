@@ -1,5 +1,16 @@
 # Jenkins Installation Guide (Debian/Ubuntu)
 
+## Installation of Java
+
+Jenkins requires Java to run, yet not all Linux distributions include Java by default. Additionally, not all Java versions are compatible with Jenkins.
+
+Update the Debian apt repositories, install OpenJDK 17, and check the installation with the commands:
+
+```bash
+sudo apt update
+sudo apt install fontconfig openjdk-17-jre
+```
+
 This guide will help you install Jenkins on a Debian-based system (such as Ubuntu). Follow the steps below to get Jenkins up and running!
 
 ---
@@ -44,3 +55,39 @@ Start and Enable the Jenkins service:
 sudo systemctl start jenkins
 sudo systemctl enable jenkins
 ```
+
+## Step 6: Access Jenkins
+
+Jenkins runs on port 8080 by default. Open your browser and navigate to:
+
+## Local Machine:
+
+Access Jenkins using:
+
+```bash
+http://localhost:8080
+```
+
+## Remote Server:
+
+If you’re running Jenkins on a remote server, replace localhost with your server’s IP address or domain name. For example:
+
+```bash
+http://<your-server-ip>:8080
+```
+
+## AWS EC2:
+
+If you’re using AWS EC2, you can access Jenkins via the public IP address of your instance:
+
+```bash
+http://<ec2-public-ip>:8080
+```
+
+## To retrieve the initial admin password for Jenkins setup, use:
+
+```bash
+sudo cat /var/lib/jenkins/secrets/initialAdminPassword
+```
+
+
