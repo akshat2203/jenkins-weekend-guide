@@ -63,13 +63,12 @@ Our latest and greatest source of Jenkins can be found on [GitHub](https://githu
 
 ## 📚 Table of Contents
 
-1. [Introduction to Jenkins](#)
-2. [Installing Jenkins](#)
-3. [Configuring Jenkins with Plugins](#)
-4. [Building your First CI/CD Pipeline](#)
-5. [Integrating with GitHub and Docker](#)
-6. [Automating with Jenkins](#)
-7. [Advanced Features and Custom Pipelines](#)
+1. [Installing Jenkins](#)
+2. [Configuring Jenkins with Plugins](#)
+3. [Building your First CI/CD Pipeline](#)
+4. [Integrating with GitHub and Docker](#)
+5. [Automating with Jenkins](#)
+6. [Advanced Features and Custom Pipelines](#)
 
 
 
