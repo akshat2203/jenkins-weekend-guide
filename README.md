@@ -13,7 +13,7 @@ As working professionals, finding time to upskill can be tough. That's why I’m
 ## 📚 Table of Contents
 
 1. [Installing Jenkins](./Installing-Jenkins)
-2. [Explore Plugins abd Why Plugins Matter in Jenkins](./Installing-Jenkins) 
+2. [Explore Plugins abd Why Plugins Matter in Jenkins](./explore-plugins) 
 3. Building your First CI/CD Pipeline
 4. Integrating with GitHub and Docker
 5. Automating with Jenkins
