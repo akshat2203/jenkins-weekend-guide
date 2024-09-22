@@ -10,6 +10,17 @@ As working professionals, finding time to upskill can be tough. That's why I’m
 
 ---
 
+## 📚 Table of Contents
+
+1. [Installing Jenkins](./Installing-Jenkins)
+2. [Explore Plugins abd Why Plugins Matter in Jenkins](./Installing-Jenkins) 
+3. Building your First CI/CD Pipeline
+4. Integrating with GitHub and Docker
+5. Automating with Jenkins
+6. Advanced Features and Custom Pipelines
+
+
+
 ## 🌟 Why Jenkins?
 
 - **🚀 Automation**: Streamline your CI/CD pipeline.
@@ -59,16 +70,5 @@ Latest releases:
 # Source
 
 Our latest and greatest source of Jenkins can be found on [GitHub](https://github.com/jenkinsci/jenkins). Fork us!
-
-
-## 📚 Table of Contents
-
-1. [Installing Jenkins](#)
-2. [Configuring Jenkins with Plugins](#)
-3. [Building your First CI/CD Pipeline](#)
-4. [Integrating with GitHub and Docker](#)
-5. [Automating with Jenkins](#)
-6. [Advanced Features and Custom Pipelines](#)
-
 
 
