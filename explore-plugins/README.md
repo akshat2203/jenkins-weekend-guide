@@ -1,6 +1,5 @@
 # 🚀 Weekend 2: Explore Plugins and Why Plugins Matter 🚀
 
-
 This weekend, we’re diving into **Jenkins plugins**, one of the key features that make Jenkins the go-to tool for Continuous Integration/Continuous Deployment (CI/CD).
 
 ## 🔍 What are Jenkins Plugins?
